@@ -1,0 +1,47 @@
+<!Doctype html>
+<html>
+<head>
+
+<meta value="utf-8">
+
+<link href="estilo.css" rel="stylesheet">
+
+<title>Aula 4 - projeto iPhone</title>
+
+
+
+</head>
+
+<body>
+
+
+
+	<div class ="menu">
+		<div id="home">Home</div>
+		<div id="iphone">iPhone</div>
+		<div id="ondecomprar">Onde Comprar</div>
+		<div id="produtos">Produtos</div>
+		<div id="contatos">Contatos</div>
+				</div>
+	<div class ="banner">
+		<div>
+		<img src="iphone.jpg""class="image"/>
+		</div>
+	</div>
+	<div class ="conteudo"></a>
+		<div>
+	
+		</div>
+	</div>
+	
+		
+<footer class ="rodape">		
+	<div>
+		rodapé
+		</div>
+</footer>		
+
+	
+	
+</body>
+</html>
