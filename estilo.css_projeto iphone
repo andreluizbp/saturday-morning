@@ -1,0 +1,90 @@
+* {
+
+width: 0px;
+padding:none;
+
+	}
+	
+body {
+	background-image: fundo_site.png;
+	background-repeat:repeat-x;
+	}
+	
+div {
+		  width:150px;          
+		  background-color:gray;
+		  height:25px;         
+		  line-height:25px;    
+		  float:left;
+		  margin-right:5px;
+		  color:#900;         
+		 font-family:Verdana; 
+		 font-size:13px;      
+		 text-decoration:none;
+		 text-align:center;
+		 display:block;  
+		}
+
+/* div:hover{
+      background-color:#0000;
+	  color:#cccc;
+	  font-weight:bold;
+	  }
+*/
+
+.menu {
+	width: 800px;
+	height: 40px;
+	}
+	
+		#home:hover {
+			  background-color:#0000;
+			  color:#cccc;
+			  font-weight:bold;
+		}
+
+		#iphone:hover {
+			  background-color:#0000;
+			  color:#cccc;
+			  font-weight:bold;
+				 }
+				 
+		#ondecomprar:hover {
+			  background-color:#0000;
+			  color:#cccc;
+			  font-weight:bold;
+		}
+
+		#produtos:hover {
+			  background-color:#0000;
+			  color:#cccc;
+			  font-weight:bold;
+		}
+
+		#contatos:hover {
+			  background-color:#0000;
+			  color:#cccc;
+			  font-weight:bold;
+		}
+
+.banner{
+
+	width: 800px;
+	height:auto;
+		}
+		
+		
+	
+.conteudo {
+
+	width: 800px;
+	height:auto;
+		}
+
+	
+.rodape {
+
+	width: 800px;
+	height: 30px;
+	}
+	
