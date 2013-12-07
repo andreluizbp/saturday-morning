@@ -1,47 +1,55 @@
-<!Doctype html>
-<html>
+<!DOCTYPE html>
+
+<html lang="pt-BR">
 <head>
+<title></title>
+<meta charset="utf-8">
 
-<meta value="utf-8">
-
-<link href="estilo.css" rel="stylesheet">
-
-<title>Aula 4 - projeto iPhone</title>
-
-
+<link href="style.css" rel="stylesheet" type="text/css">
 
 </head>
-
 <body>
 
+<div id="geral">
+
+<div id="menu">
+   <ul>
+     <li>Home</li>
+     <li>Iphone</li>
+     <li>Onde comprar</li>
+     <li>Produtos</li>
+     <li>Contato</li>
+   </ul>
+</div>
+
+<div id="banner">
+
+	<img src="iphone.jpg">
+
+</div>
 
 
-	<div class ="menu">
-		<div id="home">Home</div>
-		<div id="iphone">iPhone</div>
-		<div id="ondecomprar">Onde Comprar</div>
-		<div id="produtos">Produtos</div>
-		<div id="contatos">Contatos</div>
-				</div>
-	<div class ="banner">
-		<div>
-		<img src="iphone.jpg""class="image"/>
-		</div>
-	</div>
-	<div class ="conteudo"></a>
-		<div>
-	
-		</div>
-	</div>
-	
-		
-<footer class ="rodape">		
-	<div>
-		rodapé
-		</div>
-</footer>		
 
+<div id="conteudo">
 	
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar adipiscing nisi sed dignissim. Vestibulum eget enim non erat volutpat volutpat. Nulla in lorem id sem dictum adipiscing. Aliquam erat volutpat. Donec eu arcu consectetur, aliquam lorem nec, cursus erat. Aliquam ac ligula feugiat, suscipit diam non, mattis mi. Suspendisse eleifend ac tellus id congue. Praesent quam ligula, convallis sed magna sed, blandit tristique augue. Vivamus eu nulla varius, convallis neque et, lacinia sapien. Mauris elementum vulputate sem interdum hendrerit. Duis in dui est. Mauris gravida dictum quam, sit amet malesuada enim sollicitudin quis. 
+	</p>
 	
+
+</div>
+<div id="rodape">
+
+	<p>Suspendisse condimentum, lacus nec bibendum congue, odio velit imperdiet est.</p>
+
+</div>
+</div>
+
 </body>
+
 </html>
+
+
+
+
+
